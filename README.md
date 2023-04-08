@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Here](https://wagner-goulart.github.io/social-proof-section-master/)
 
 ### Built with
 
